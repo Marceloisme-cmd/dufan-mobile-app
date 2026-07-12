@@ -32,7 +32,7 @@ A Flutter-based mobile application for Dufan featuring ticket reservations, hote
 
 | AI Assistant                      | Map                                 |
 | --------------------------------- | ----------------------------------- |
-| ![](screenshots/dufan_chatai.png) | ![](screenshots/map_interaktif.png) |
+| ![](screenshots/ai_assistant.png) | ![](screenshots/map_interaktif.png) |
 
 | Ticket                         | History                            |
 | ------------------------------ | ---------------------------------- |
