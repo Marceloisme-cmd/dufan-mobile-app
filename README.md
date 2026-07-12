@@ -46,10 +46,6 @@ A Flutter-based mobile application for Dufan featuring ticket reservations, hote
 | ---------------------------------- | --------------------------- |
 | ![](screenshots/detail_wahana.png) | ![](screenshots/profil.png) |
 
-| Profile                      |
-| ---------------------------- |
-| ![](screenshots/profile.png) |
-
 # Getting Started
 
 ```bash
