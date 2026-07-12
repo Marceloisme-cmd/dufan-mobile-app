@@ -1,0 +1,3 @@
+
+enum MapItemType { attraction, event }
+
